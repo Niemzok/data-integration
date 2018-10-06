@@ -3,3 +3,5 @@ config_secret.py
 main.db
 .DS_Store
 __pycache__
+venv
+Pipfile
